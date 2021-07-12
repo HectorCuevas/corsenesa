@@ -1,0 +1,92 @@
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\bin\Debug\Firma.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\bin\Debug\Firma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\bin\Debug\FirmaXadesNet.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\bin\Debug\Microsoft.Xades.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CopyComplete
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\obj\Debug\Firma.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\obj\Debug\Firma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\Firma\obj\Debug\Firma.csprojAssemblyReference.cache
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\Firma.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\Firma.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\FirmaXadesNet.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\Microsoft.Xades.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\mscorlib.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\System.Net.Http.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\System.Net.Http.xml
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\es\mscorlib.resources.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\normidna.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\normnfc.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\normnfd.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\normnfkc.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\bin\Debug\normnfkd.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\obj\Debug\Firma.csprojResolveAssemblyReference.cache
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\obj\Debug\Firma.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\Firma\obj\Debug\Firma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\bin\Debug\Firma.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\bin\Debug\Firma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\bin\Debug\FirmaXadesNet.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\bin\Debug\Microsoft.Xades.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\obj\Debug\Firma.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\obj\Debug\Firma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\Firma\obj\Debug\Firma.csprojResolveAssemblyReference.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\bin\Debug\Firma.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\bin\Debug\Firma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\bin\Debug\FirmaXadesNet.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\bin\Debug\Microsoft.Xades.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\obj\Debug\Firma.csprojAssemblyReference.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CopyComplete
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\obj\Debug\Firma.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FirmaDocumento\Firma\obj\Debug\Firma.pdb
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\bin\Debug\Firma.dll
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\bin\Debug\Firma.pdb
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\bin\Debug\FirmaXadesNet.dll
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\bin\Debug\Microsoft.Xades.dll
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CopyComplete
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\obj\Debug\Firma.dll
+C:\Users\leyla\Documents\FEL\FirmaDocumento\Firma\obj\Debug\Firma.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Firma.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Firma.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\FirmaXadesNet.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Microsoft.Xades.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csprojAssemblyReference.cache
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CopyComplete
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Firma.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Firma.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\FirmaXadesNet.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Microsoft.Xades.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csprojAssemblyReference.cache
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CopyComplete
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.pdb
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Firma.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Firma.pdb
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\FirmaXadesNet.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\Microsoft.Xades.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csprojAssemblyReference.cache
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.csproj.CopyComplete
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FirmaDocumento\Firma\obj\Debug\Firma.pdb

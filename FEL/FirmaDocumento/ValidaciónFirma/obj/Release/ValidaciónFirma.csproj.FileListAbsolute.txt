@@ -1,0 +1,14 @@
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\ValidaciónFirma.exe.config
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\ValidaciónFirma.exe
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\ValidaciónFirma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\Firma.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\FirmaXadesNet.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\Microsoft.Xades.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\Firma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\bin\Release\BouncyCastle.Crypto.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\obj\Release\ValidaciónFirma.csprojResolveAssemblyReference.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\obj\Release\ValidaciónFirma.csproj.CoreCompileInputs.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\obj\Release\ValidaciónFirma.csproj.CopyComplete
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\obj\Release\ValidaciónFirma.exe
+C:\Users\lflorian\source\repos\FirmaDocumento\ValidaciónFirma\obj\Release\ValidaciónFirma.pdb

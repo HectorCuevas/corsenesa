@@ -1,0 +1,430 @@
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\FELFactura.dll.config
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\FELFactura.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\FELFactura.pdb
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\csc.exe
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\csc.exe.config
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\csc.rsp
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\csi.exe
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\csi.exe.config
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\csi.rsp
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.AppContext.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Collections.Immutable.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Console.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.IO.Compression.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Security.AccessControl.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Security.Claims.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.ValueTuple.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\vbc.exe
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\vbc.exe.config
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\vbc.rsp
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe.config
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\leyla\source\repos\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CoreCompileInputs.cache
+c:\users\leyla\source\repos\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CopyComplete
+c:\users\leyla\source\repos\FELFactura\FELFactura\obj\Debug\FELFactura.dll
+c:\users\leyla\source\repos\FELFactura\FELFactura\obj\Debug\FELFactura.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\FELFactura.dll.config
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\FELFactura.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\FELFactura.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\csc.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\csc.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\csc.rsp
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\csi.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\csi.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\csi.rsp
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.AppContext.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Console.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.IO.Compression.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Security.Claims.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.ValueTuple.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\vbc.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\vbc.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\vbc.rsp
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\obj\Debug\FELFactura.csprojAssemblyReference.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CopyComplete
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\obj\Debug\FELFactura.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FELFactura\FELFactura\obj\Debug\FELFactura.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\FELFactura.dll.config
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\FELFactura.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\FELFactura.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\csc.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\csc.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\csc.rsp
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\csi.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\csi.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\csi.rsp
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.AppContext.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Console.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.IO.Compression.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Security.Claims.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.ValueTuple.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\vbc.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\vbc.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\vbc.rsp
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\Firma.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\Modelos.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\FirmaXadesNet.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\Microsoft.Xades.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\BouncyCastle.Crypto.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\Firma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\Modelos.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\bin\BouncyCastle.Crypto.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\obj\Debug\FELFactura.csprojAssemblyReference.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CopyComplete
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\obj\Debug\FELFactura.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\FELFactura\obj\Debug\FELFactura.pdb
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\FELFactura.dll.config
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\FELFactura.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\FELFactura.pdb
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\csc.exe
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\csc.exe.config
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\csc.rsp
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\csi.exe
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\csi.exe.config
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\csi.rsp
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.AppContext.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Console.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Compression.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Claims.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.ValueTuple.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\vbc.exe
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\vbc.exe.config
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\vbc.rsp
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\Firma.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\Modelos.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\FirmaXadesNet.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\Microsoft.Xades.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\BouncyCastle.Crypto.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\Firma.pdb
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\Modelos.pdb
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\bin\BouncyCastle.Crypto.pdb
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csprojAssemblyReference.cache
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CopyComplete
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.dll
+C:\Users\leyla\Documents\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.dll.config
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.exe
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.exe.config
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.rsp
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.exe
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.exe.config
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.rsp
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.AppContext.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Console.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Compression.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Claims.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.ValueTuple.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.exe
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.exe.config
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.rsp
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\Firma.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\Modelos.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\FirmaXadesNet.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.Xades.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\BouncyCastle.Crypto.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\Firma.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\Modelos.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\bin\BouncyCastle.Crypto.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csprojAssemblyReference.cache
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CopyComplete
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.dll.config
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.exe
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.exe.config
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.rsp
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.exe
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.exe.config
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.rsp
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.AppContext.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Console.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Compression.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Claims.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.ValueTuple.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.exe
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.exe.config
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.rsp
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\Firma.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\Modelos.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\FirmaXadesNet.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.Xades.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\BouncyCastle.Crypto.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\Firma.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\Modelos.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\bin\BouncyCastle.Crypto.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csprojAssemblyReference.cache
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CoreCompileInputs.cache
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CopyComplete
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.pdb
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.dll.config
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\FELFactura.pdb
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.exe
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.exe.config
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csc.rsp
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.exe
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.exe.config
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\csi.rsp
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.AppContext.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Console.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Compression.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Claims.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.ValueTuple.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.exe
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.exe.config
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\vbc.rsp
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\Firma.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\Modelos.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\FirmaXadesNet.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.Xades.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\BouncyCastle.Crypto.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\Firma.pdb
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\Modelos.pdb
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\bin\BouncyCastle.Crypto.pdb
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csprojAssemblyReference.cache
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.csproj.CopyComplete
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.dll
+C:\Users\ThinkPad T490\Documents\workspace\PROMOVIL WS\megraprint\FEL\FELFactura\FELFactura\obj\Debug\FELFactura.pdb

@@ -1,0 +1,50 @@
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.exe.config
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.exe
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.pdb
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\Firma.dll
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\FirmaXadesNet.dll
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\Microsoft.Xades.dll
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\Firma.pdb
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\bin\Debug\BouncyCastle.Crypto.pdb
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.csproj.CoreCompileInputs.cache
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.csproj.CopyComplete
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.exe
+c:\users\lflorian\source\repos\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.csprojAssemblyReference.cache
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.exe.config
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.exe
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.exe
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\Firma.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\mscorlib.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\System.Net.Http.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\FirmaXadesNet.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\Microsoft.Xades.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\Firma.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\System.Net.Http.xml
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\es\mscorlib.resources.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\normidna.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\normnfc.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\normnfd.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\normnfkc.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\bin\Debug\normnfkd.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.csprojResolveAssemblyReference.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\FirmaConsole.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\Firma.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\FirmaXadesNet.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\Microsoft.Xades.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\Firma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.csprojAssemblyReference.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.csproj.CopyComplete
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\FirmaConsole\obj\Debug\FirmaConsole.pdb

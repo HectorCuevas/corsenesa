@@ -1,0 +1,28 @@
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\Modelos\bin\Release\Modelos.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\Modelos\bin\Release\Modelos.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\Modelos\obj\Release\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\Modelos\obj\Release\Modelos.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\proyectos\FELFactura\Modelos\obj\Release\Modelos.pdb
+C:\Users\leyla\Documents\FEL\FELFactura\Modelos\bin\Release\Modelos.dll
+C:\Users\leyla\Documents\FEL\FELFactura\Modelos\bin\Release\Modelos.pdb
+C:\Users\leyla\Documents\FEL\FELFactura\Modelos\obj\Release\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Documents\FEL\FELFactura\Modelos\obj\Release\Modelos.dll
+C:\Users\leyla\Documents\FEL\FELFactura\Modelos\obj\Release\Modelos.pdb
+C:\Users\leyla\Documents\FEL\FELFactura\Modelos\obj\Release\Modelos.csprojAssemblyReference.cache
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\Modelos\bin\Release\Modelos.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\Modelos\bin\Release\Modelos.pdb
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.csprojAssemblyReference.cache
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.dll
+C:\Users\Norman\Desktop\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\Modelos\bin\Release\Modelos.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\Modelos\bin\Release\Modelos.pdb
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.csprojAssemblyReference.cache
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.dll
+C:\Users\Norman\Desktop\Prosisco\MQ\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.pdb
+C:\Users\ThinkPad T490\Documents\workspace\megraprint\FEL\FELFactura\Modelos\bin\Release\Modelos.dll
+C:\Users\ThinkPad T490\Documents\workspace\megraprint\FEL\FELFactura\Modelos\bin\Release\Modelos.pdb
+C:\Users\ThinkPad T490\Documents\workspace\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.csprojAssemblyReference.cache
+C:\Users\ThinkPad T490\Documents\workspace\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T490\Documents\workspace\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.dll
+C:\Users\ThinkPad T490\Documents\workspace\megraprint\FEL\FELFactura\Modelos\obj\Release\Modelos.pdb

@@ -1,0 +1,42 @@
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\AplicacionFirma.exe.config
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\AplicacionFirma.exe
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\AplicacionFirma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\Firma.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\FirmaXadesNet.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\Microsoft.Xades.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\Firma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Release\BouncyCastle.Crypto.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.csprojResolveAssemblyReference.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.Form1.resources
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.Properties.Resources.resources
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.csproj.GenerateResource.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.csproj.CoreCompileInputs.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.csproj.CopyComplete
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.exe
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\AplicacionFirma.exe.config
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.exe
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\AplicacionFirma.exe
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\AplicacionFirma.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\Firma.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\mscorlib.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\System.Net.Http.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\FirmaXadesNet.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\Microsoft.Xades.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\Firma.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\System.Net.Http.xml
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\BouncyCastle.Crypto.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\es\mscorlib.resources.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\es\System.Net.Http.resources.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\normidna.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\normnfc.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\normnfd.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\normnfkc.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Release\normnfkd.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.csprojResolveAssemblyReference.cache
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.Form1.resources
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.Properties.Resources.resources
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Release\AplicacionFirma.csproj.GenerateResource.Cache

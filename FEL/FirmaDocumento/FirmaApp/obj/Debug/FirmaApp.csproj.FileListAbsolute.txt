@@ -1,0 +1,17 @@
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\FirmaApp.exe.config
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\FirmaApp.exe
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\FirmaApp.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\obj\Debug\FirmaApp.csprojResolveAssemblyReference.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\obj\Debug\FirmaApp.Form1.resources
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\obj\Debug\FirmaApp.Properties.Resources.resources
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\obj\Debug\FirmaApp.csproj.GenerateResource.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\obj\Debug\FirmaApp.csproj.CoreCompileInputs.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\obj\Debug\FirmaApp.exe
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\obj\Debug\FirmaApp.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\Firma.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\FirmaXadesNet.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\Microsoft.Xades.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\Firma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\FirmaApp\obj\Debug\FirmaApp.csproj.CopyComplete

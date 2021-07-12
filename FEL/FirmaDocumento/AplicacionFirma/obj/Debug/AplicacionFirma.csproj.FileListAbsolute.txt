@@ -1,0 +1,57 @@
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.exe.config
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.exe
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.csprojResolveAssemblyReference.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.Form1.resources
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.Properties.Resources.resources
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.csproj.GenerateResource.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.csproj.CoreCompileInputs.cache
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.exe
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\Firma.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\FirmaXadesNet.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\Microsoft.Xades.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\Firma.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\lflorian\source\repos\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.csproj.CopyComplete
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.exe.config
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.exe
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\Firma.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\mscorlib.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\System.Net.Http.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\FirmaXadesNet.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\Microsoft.Xades.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\Firma.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\System.Net.Http.xml
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\es\mscorlib.resources.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\normidna.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\normnfc.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\normnfd.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\normnfkc.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\bin\Debug\normnfkd.nlp
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.csprojResolveAssemblyReference.cache
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.Form1.resources
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.Properties.Resources.resources
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.csproj.GenerateResource.Cache
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.exe
+C:\Users\lherrera\Documents\Visual Studio 2012\Projects\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.exe.config
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\AplicacionFirma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\Firma.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\FirmaXadesNet.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\Microsoft.Xades.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\Firma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.Form1.resources
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.Properties.Resources.resources
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.csproj.GenerateResource.cache
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.exe
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.pdb
+C:\Users\leyla\Dropbox\universidad\prosisco\FirmaDocumento\AplicacionFirma\obj\Debug\AplicacionFirma.csprojResolveAssemblyReference.cache
